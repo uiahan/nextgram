@@ -13,7 +13,7 @@ const Postcard = () => {
             </div>
           </div>
           <div className="flex items-center">
-            <button className="btn btn-secondary rounded-3xl">Follow</button>
+            <button className="btn btn-secondary">Follow</button>
           </div>
         </div>
         <figure>
